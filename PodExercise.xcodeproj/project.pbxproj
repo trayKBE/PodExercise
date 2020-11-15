@@ -11,7 +11,6 @@
 		80F8535625615986001AC53B /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 80F8535525615986001AC53B /* SceneDelegate.m */; };
 		80F8535925615986001AC53B /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 80F8535825615986001AC53B /* ViewController.m */; };
 		80F8535C25615986001AC53B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 80F8535A25615986001AC53B /* Main.storyboard */; };
-		80F8535E25615988001AC53B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 80F8535D25615988001AC53B /* Assets.xcassets */; };
 		80F8536125615988001AC53B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 80F8535F25615988001AC53B /* LaunchScreen.storyboard */; };
 		80F8536425615988001AC53B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 80F8536325615988001AC53B /* main.m */; };
 		81EA40312C660FE0009CE876 /* libPods-PodExercise.a in Frameworks */ = {isa = PBXBuildFile; fileRef = DF385B37FADA2CAB5F3CBEBE /* libPods-PodExercise.a */; };
@@ -27,7 +26,6 @@
 		80F8535725615986001AC53B /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		80F8535825615986001AC53B /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		80F8535B25615986001AC53B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		80F8535D25615988001AC53B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		80F8536025615988001AC53B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		80F8536225615988001AC53B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		80F8536325615988001AC53B /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -53,7 +51,6 @@
 				591CF8F6BCBEAA36C3A0EC3A /* Pods-PodExercise.debug.xcconfig */,
 				F44CE488F30CA2F69A5B5BDD /* Pods-PodExercise.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -85,7 +82,6 @@
 				80F8535725615986001AC53B /* ViewController.h */,
 				80F8535825615986001AC53B /* ViewController.m */,
 				80F8535A25615986001AC53B /* Main.storyboard */,
-				80F8535D25615988001AC53B /* Assets.xcassets */,
 				80F8535F25615988001AC53B /* LaunchScreen.storyboard */,
 				80F8536225615988001AC53B /* Info.plist */,
 				80F8536325615988001AC53B /* main.m */,
@@ -160,7 +156,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				80F8536125615988001AC53B /* LaunchScreen.storyboard in Resources */,
-				80F8535E25615988001AC53B /* Assets.xcassets in Resources */,
 				80F8535C25615986001AC53B /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
