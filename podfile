@@ -1,0 +1,3 @@
+target 'PodExercise' do
+	pod 'YYModel'
+end
