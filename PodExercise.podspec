@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '13.6'
 
-  #s.source_files = 'PodExercise/Assets.xcassets/*.json'
+  s.source_files = 'PodExercise/**/*.{h,m}'
   
   # s.resource_bundles = {
   #   'podTestLibraray' => ['podTestLibraray/Assets/*.png']
