@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'PodExercise'
-  s.version          = '0.0.5'
+  s.version          = '0.0.6'
   s.summary          = 'first pod'
 
 # This description is used to generate tags and improve search results.
@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '13.6'
 
-  s.source_files = 'PodExercise/**/*.{h,m}'
+  s.source_files = 'PodExercise/Utils/*.{h,m}'
   
   # s.resource_bundles = {
   #   'podTestLibraray' => ['podTestLibraray/Assets/*.png']
