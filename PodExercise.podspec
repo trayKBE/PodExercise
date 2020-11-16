@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'PodExercise'
-  s.version          = '0.0.6'
+  s.version          = '0.0.7'
   s.summary          = 'first pod'
 
 # This description is used to generate tags and improve search results.
@@ -38,5 +38,5 @@ TODO: Add long description of the pod here.
 
   # s.public_header_files = 'PodExercise/*.h'
    s.frameworks = 'UIKit', 'MapKit'
-   s.dependency 'YYModel', '1.0.4'
+  # s.dependency 'YYModel', '1.0.4'
 end
